@@ -10,5 +10,5 @@ A Jupyter notebook is in this repository to help you create your very own Deep N
 4. Double click the file to open the notebook
 
 ## Credit
-This workshop was made by the GDSC of EPITA special thanks to:
+This workshop was made by the GDSC of EPITA / University of Paris-Saclay / Sorbonne University special thanks to:
 - EPITA GDSC 2023 Philippe Bouchet
