@@ -9,3 +9,6 @@ A Jupyter notebook is in this repository in which you will be assigned the task 
 3. Import notebook -> Github -> Put this url: https://github.com/GDSC-EPITA/gdsc-ML-intro/blob/master/GDSC_DL_notebook.ipynb
 4. Double click the file to open the notebook
 
+## Credit
+This workshop was made by the GDSC of EPITA special thanks to:
+- EPITA GDSC 2023 Philippe Bouchet
