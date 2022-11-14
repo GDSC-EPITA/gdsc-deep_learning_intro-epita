@@ -1,7 +1,7 @@
 # Machine Learning intro
 
 Do you have an interest in AI and Deep Learning, but never had the time or opportunity to learn more about it? Well this event is for you! We will go over the fundamental aspects of Deep Learning, how it's used today and what powers Deep Learning models.  
-A Jupyter notebook is in this repository in which you will be assigned the task of creating your very own Deep Neural Network!
+A Jupyter notebook is in this repository to help you create your very own Deep Neural Network!
 
 ## Usage
 1. Open [Google Colab](https://colab.research.google.com/)  
