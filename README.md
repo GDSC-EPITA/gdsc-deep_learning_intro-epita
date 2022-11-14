@@ -4,7 +4,7 @@ Do you have an interest in AI and Deep Learning, but never had the time or oppor
 A Jupyter notebook is in this repository to help you create your very own Deep Neural Network!
  
 
-- Part 1: Live presentation of deep learning, machine learning and neural networks (for those not present the slides are avaible [here](https://github.com/GDSC-EPITA/gdsc-deep_learning_intro-epita/blob/master/GDSC%20Introduction%20to%20Deep%20Learning%20Workshop.pptx.pdf))  
+- Part 1: [Live presentation](https://www.youtube.com/watch?v=sriot2xnBdY) of deep learning, machine learning and neural networks (for those not present the slides are avaible [here](https://github.com/GDSC-EPITA/gdsc-deep_learning_intro-epita/blob/master/GDSC%20Introduction%20to%20Deep%20Learning%20Workshop.pptx.pdf))  
 - Part 2: Practical on google colab
 
 ## Usage
