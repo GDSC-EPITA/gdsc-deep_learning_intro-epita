@@ -6,7 +6,7 @@ A Jupyter notebook is in this repository in which you will be assigned the task 
 ## Usage
 1. Open [Google Colab](https://colab.research.google.com/)  
 2. Import this repository in google collab using the github import feature.
-3. Import notebook -> Github -> Put this url: https://github.com/GDSC-EPITA/gdsc-ML-intro/blob/master/GDSC_DL_notebook.ipynb
+3. Import notebook -> Github -> Put this url: https://github.com/GDSC-EPITA/gdsc-deep_Learning_into-epita/
 4. Double click the file to open the notebook
 
 ## Credit
